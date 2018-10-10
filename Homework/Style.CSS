@@ -1,0 +1,67 @@
+﻿nav
+{   background:lightcoral;
+    border-radius: 25px;
+    padding: 1px;
+    font-family:Imprint MT Shadow;
+    Text-transform: uppercase;
+    border:2px black solid;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 10px 10px;
+    display: flex;
+}
+
+body {
+}
+h2 {
+    color: darkblue;
+    font-family:Imprint MT Shadow;
+    margin: 0 auto;
+    
+}
+.companyrib {
+   color: darkblue;
+    background-repeat: no-repeat;
+    padding: 1px 0px 1px 80px;
+    font-family:Imprint MT Shadow;
+    font-size:25px;
+    margin: 0 auto;
+    display:flex;
+}
+
+ul
+{
+    display: flex;
+    }
+li
+{
+    text-transform:capitalize;
+    margin: 0 auto;
+    text-decoration: none;
+    padding: 16px;
+    
+}
+.RL-001 a
+{
+   text-decoration: none;
+    border-radius: 25px;
+    padding: 1px;
+    font-family:Imprint MT Shadow;
+    Text-transform: uppercase;
+    border:2px black solid;
+    font-size: 25px;
+    padding: 10px 10px;
+    display: flex;
+    background-size: 30px;
+    background-repeat:no-repeat;
+    position: centre;
+    background-color: White;
+    }
+.aweri {
+    display:flex;
+    margin:0px 50px;}
+span {
+    border: 1px solid black;
+    margin:0px 10px;
+    display:block;
+}
